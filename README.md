@@ -1,11 +1,12 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiADh1D3pOyJwZUTjEFngOpdX92p_XfFdXxA&usqp=CAU&reload=on)](https://github.com/HyatMyat4)
+
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSb61wIsDNIZc5hmFzLqBCxjMJLJEMwe-qLA&usqp=CAU)](https://github.com/HyatMyat4)
 <h1 align="center">Hi 👋, I'm HtetMyat</h1>
 <h3 align="center">A passionate FullStack Software Engineer From Myammar</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAS/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyatmyat4&label=Profile%20views&color=0e75b6&style=flat" alt="hyatmyat4" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/myathyat" target="blank"><img src="https://img.shields.io/twitter/follow/myathyat?logo=twitter&style=for-the-badge" alt="myathyat" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -17,9 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hyatmyat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyatmyat" height="30" width="40" /></a>
-<a href="https://fb.com/aiai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aiai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ssr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ssr" height="30" width="40" /></a>
+<a href="https://twitter.com/myathyat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myathyat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-myat-14089322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/htet-myat-14089322a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hyat.myat.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hyat.myat.9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvblpsx_7tvm0iefvmgd5-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvblpsx_7tvm0iefvmgd5-w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
