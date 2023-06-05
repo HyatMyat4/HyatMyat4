@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm HtetMyat</h1>
 <h3 align="center">A passionate FullStack Software Engineer From Myammar</h3>
-<img align="right" alt="Coding" width="400" src="https://s12.gifyu.com/images/Su4be.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyatmyat4&label=Profile%20views&color=0e75b6&style=flat" alt="hyatmyat4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/myathyat" target="blank"><img src="https://img.shields.io/twitter/follow/myathyat?logo=twitter&style=for-the-badge" alt="myathyat" /></a> </p>
 
