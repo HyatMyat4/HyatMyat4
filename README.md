@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HtetMyat</h1>
 <h3 align="center">A passionate FullStack Software Engineer From Myammar</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyatmyat4&label=Profile%20views&color=0e75b6&style=flat" alt="hyatmyat4" /> </p>
 
