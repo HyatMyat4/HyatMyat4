@@ -31,7 +31,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyatmyat4&show_icons=true&locale=en" alt="hyatmyat4" /></p>
  
+![snake gif](https://github.com/HyatMyat4/HyatMyat4/blob/output/github-contribution-grid-snake.svg)
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyatmyat4&" alt="hyatmyat4" /></p>
  
- ![snake gif](https://github.com/HyatMyat4/HyatMyat4/blob/output/github-contribution-grid-snake.gif)
+
 
