@@ -35,7 +35,7 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyatmyat4&theme=radical" alt="hyatmyat4" /></p>
  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyatMyat4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyatMyat4&layout=compact&theme=radical)](https://github.com/HyatMyat4/HyatMyat4)
 
  
 
