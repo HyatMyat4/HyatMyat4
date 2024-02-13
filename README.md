@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/myathyat" target="blank"><img src="https://img.shields.io/twitter/follow/myathyat?logo=twitter&style=for-the-badge" alt="myathyat" /></a> </p>
 
-- 🌱 I’m currently learning **C#/.Net**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HyatMyat4?tab=repositories](https://github.com/HyatMyat4?tab=repositories)
 
