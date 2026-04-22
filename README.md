@@ -56,12 +56,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/HyatMyat4/HyatMyat4/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ### 📊 GitHub Stats
 
 <p>
