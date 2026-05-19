@@ -21,7 +21,8 @@ I enjoy solving complex problems, improving developer experience, and writing cl
 ## 💼 Experience
 
 **Senior Full-Stack Engineer**  
-*Innorder*  
+_Innorder_
+
 - 4+ years of professional development experience
 - Key contributor to core company products and infrastructure
 - Author and maintainer of internal company projects
@@ -39,9 +40,42 @@ I enjoy solving complex problems, improving developer experience, and writing cl
 
 ---
 
+#### Software Architect Tools and Tech
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,react,nextjs,astro,rust" alt="Skills, Tools, and Technologies" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vite,vercel,npm,pnpm,bun,neovim,bash" alt="Tools and Services" />
+  </a>
+</p>
+
+---
+
+#### Cloud Solution Architect & DevOps
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,nginx,terraform" alt="Cloud and DevOps Tools" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,gitlab,postgres,redis,grafana,prometheus" alt="CI/CD and Infrastructure" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Passion
 
 I’m especially interested in:
+
 - Open-source software
 - Developer experience (DX)
 - System design and scalable architectures
@@ -51,9 +85,8 @@ I’m especially interested in:
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- Email: hyatmyat79@gmail.com
+- LinkedIn: https://www.linkedin.com/in/htet-myat-14089322a
 
 ---
 
