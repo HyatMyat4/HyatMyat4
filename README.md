@@ -44,7 +44,7 @@ _Innorder_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,cs,java,react,nextjs,nodejs,dotnet,nestjs,spring" alt="Skills, Tools, and Technologies" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,react,nextjs,nodejs,nestjs" alt="Skills, Tools, and Technologies" />
   </a>
 </p>
 
@@ -67,6 +67,16 @@ _Innorder_
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,githubactions,gitlab,postgres,redis,grafana,prometheus" alt="CI/CD and Infrastructure" />
+  </a>
+</p>
+
+---
+
+#### 🎯 2026 Goals / Currently Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,spring" alt="Currently Learning" />
   </a>
 </p>
 
