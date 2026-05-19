@@ -44,13 +44,13 @@ _Innorder_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,react,nextjs,astro,rust" alt="Skills, Tools, and Technologies" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,react,nextjs,nodejs,cs,java" alt="Skills, Tools, and Technologies" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vite,vercel,npm,pnpm,bun,neovim,bash" alt="Tools and Services" />
+    <img src="https://skillicons.dev/icons?i=git,vite,dotnet,npm,jest,tauri,linux,bash" alt="Tools and Services" />
   </a>
 </p>
 
