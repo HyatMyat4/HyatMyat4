@@ -1,77 +1,60 @@
-<h1 align="center">Hi 👋, I'm Htet Myat</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Myanmar</h3>
+# 👋 Hi, I'm Mr. Htet Myat
 
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+I’m a full-stack software engineer with over 4 years of professional experience, deeply passionate about programming, open source, and building impactful products with code. I consider software development not just a profession, but a craft that I genuinely enjoy and continuously improve.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hyatmyat4&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+After joining Innorder, I’ve grown into a senior engineering role, where I contribute to designing, developing, and maintaining scalable systems across multiple company projects. I also serve as the author and maintainer of several core internal projects that help power the company’s ecosystem.
 
-<p align="left">
-  <a href="https://twitter.com/myathyat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/myathyat?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
-- 🌱 Currently learning **Go**
-- 👨‍💻 Projects: https://github.com/HyatMyat4?tab=repositories
-- 💬 Ask me about **React, Next.js, Tauri**
-- 📫 Email: **hyatmyat79@gmail.com**
+I enjoy solving complex problems, improving developer experience, and writing clean, maintainable, and efficient code that creates real-world value.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 What I Do
 
-<p align="left">
-<a href="https://twitter.com/HtetMyat79" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
-</a>
-<a href="https://www.linkedin.com/in/htet-myat-14089322a/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-</a>
-<a href="https://www.facebook.com/hyat.myat.9" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
-</a>
-<a href="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30"/>
-</a>
-</p>
+- Full-stack web development
+- System design and backend architecture
+- Building scalable and maintainable applications
+- Maintaining and improving internal company projects
+- Writing clean, reusable, and production-ready code
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💼 Experience
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="70"/>
-</p>
+**Senior Full-Stack Engineer**  
+*Innorder*  
+- 4+ years of professional development experience
+- Key contributor to core company products and infrastructure
+- Author and maintainer of internal company projects
+- Focused on performance, scalability, and developer experience
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyatmyat4&langs_count=10&show_icons=true&theme=radical"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=hyatmyat4&show_icons=true&theme=radical"/>
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyatmyat4&theme=radical"/>
-</p>
+- Frontend: React, Next.js, TypeScript, HTML, CSS, Tailwind
+- Backend: Node.js, NestJS, REST APIs
+- Database: PostgreSQL, Prisma
+- Tools: Git, Docker, Linux, CI/CD
+- Others: System design, API architecture, performance optimization
 
 ---
 
-### ⏱ WakaTime Stats
+## 🚀 Passion
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=HyatMyat4&layout=compact&theme=radical)](https://github.com/HyatMyat4)
+I’m especially interested in:
+- Open-source software
+- Developer experience (DX)
+- System design and scalable architectures
+- Building tools that help other developers move faster
+
+---
+
+## 📫 Contact
+
+- Email: your-email@example.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/your-username  
+
+---
+
+> “Building software is not just about writing code — it’s about creating something that lasts and makes an impact.”
