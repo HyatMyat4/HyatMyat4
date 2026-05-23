@@ -60,7 +60,7 @@ _Innorder_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,nginx,terraform" alt="Cloud and DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,terraform" alt="Cloud and DevOps Tools" />
   </a>
 </p>
 
