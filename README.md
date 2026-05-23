@@ -76,7 +76,7 @@ _Innorder_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,spring" alt="Currently Learning" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Currently Learning" />
   </a>
 </p>
 
