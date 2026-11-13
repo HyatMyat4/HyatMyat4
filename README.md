@@ -89,15 +89,15 @@ const htetMyat = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HyatMyat4/bitepoint-server">🍽️ BitePoint POS</a></h3>
-      <p>Production-ready, multi-tenant POS system with offline-capable checkout and real-time updates.</p>
+      <h3><a href="https://github.com/HyatMyat4/nekochan-mm">🐱 NekoChan Web</a></h3>
+      <p>Anime &amp; manga streaming platform with Myanmar subtitles — accounts, library, collections, chat, and an admin dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js%2015-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <sub><a href="https://github.com/HyatMyat4/bitepoint-client">Client</a> · <a href="https://github.com/HyatMyat4/bitepoint-server">Server</a></sub>
+      <sub><a href="http://nekochan.vip">Live site</a> · <a href="https://github.com/HyatMyat4/nekochan-mm">Web</a> · <a href="https://github.com/HyatMyat4/nekochan-anime-mm">Android</a> · <a href="https://github.com/HyatMyat4/nekochan-tv">TV</a></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HyatMyat4/mono-mm-web">🎲 Mono MM</a></h3>
