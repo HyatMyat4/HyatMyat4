@@ -12,68 +12,44 @@
   <img src="https://komarev.com/ghpvc/?username=HyatMyat4&style=flat-square&color=2A2520&label=Readers" alt="Profile views" />
 </p>
 
-<p align="center"><sub>❧</sub></p>
-
 <p align="center">
-  <i>“Have nothing in your houses that you do not know to be useful, or believe to be beautiful.”</i><br/>
-  <sub>— William Morris, 1880</sub>
+  <i>“Have nothing that you do not know to be useful, or believe to be beautiful.”</i><br/>
+  <sub>— William Morris</sub>
 </p>
 
 <br/>
 
-## Chapter I &nbsp;·&nbsp; <i>Of the Author</i>
+## I &nbsp;·&nbsp; <i>About</i>
 
-I am a **Senior Full-Stack Engineer** at **Innorder**, with more than four years spent designing, building, and keeping products of real scale. I hold software to be a craft, and I care for the things a craftsman cares for: clean architecture, code that endures, and tools that help a team do its finest work.
+Senior Full-Stack Engineer with **4+ years** of experience building scalable, production-grade products. I care about clean architecture, maintainable code, and good developer experience, and I author and maintain several core internal projects at work.
 
-At Innorder I contribute across many of the company's products, and I am the **author and keeper of several core internal projects** on which its ecosystem rests.
-
-```ts
-const author = {
-  station:   "Senior Full-Stack Engineer",
-  house:     "Innorder",
-  residence: "Yangon, Myanmar",
-  tenure:    "4+ years",
-  studies:   ["System Design", "Backend Architecture", "Scalable Web Apps", "Developer Experience"],
-  presently: ["C#", ".NET", "Godot"],
-  leisure:   "Making games in the quiet hours",
-};
-```
+- **Focus:** System Design · Backend Architecture · Scalable Web Apps · Developer Experience
+- **Learning:** C# · .NET · Godot
+- **Outside work:** making games
 
 <br/>
 
-## Chapter II &nbsp;·&nbsp; <i>Of the Craft</i>
-
-| | |
-| :--- | :--- |
-| **Full-Stack Development** | Complete web applications in React, Next.js, NestJS and TypeScript |
-| **System Design** | Multi-tenant, real-time, and event-driven architectures |
-| **Performance & Scale** | Caching, queues, pub/sub, and careful database tuning |
-| **Developer Experience** | Internal tooling, reusable libraries, and CI/CD pipelines |
-| **Stewardship** | Authoring and maintaining core internal company projects |
-
-<br/>
-
-## Chapter III &nbsp;·&nbsp; <i>The Instruments</i>
+## II &nbsp;·&nbsp; <i>Tech Stack</i>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,redux&perline=8" alt="Languages & Frontend" /><br/><sub><i>Languages &amp; the Frontispiece</i></sub>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,redux&perline=8" alt="Languages & Frontend" /><br/><sub><i>Frontend</i></sub>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,redis,mongodb,kafka,rabbitmq&perline=8" alt="Backend & Data" /><br/><sub><i>The Engine Room &amp; the Archive</i></sub>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,redis,mongodb,kafka,rabbitmq&perline=8" alt="Backend & Data" /><br/><sub><i>Backend &amp; Data</i></sub>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,bash&perline=8" alt="Cloud & DevOps" /><br/><sub><i>Cloud &amp; the Machinery of Deployment</i></sub>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,linux,bash&perline=8" alt="Cloud & DevOps" /><br/><sub><i>Cloud &amp; DevOps</i></sub>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,grafana,prometheus,jest,tauri&perline=8" alt="CI/CD, Monitoring & Tools" /><br/><sub><i>Pipelines, Watchmen &amp; Sundry Tools</i></sub>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,grafana,prometheus,jest,tauri&perline=8" alt="CI/CD, Monitoring & Tools" /><br/><sub><i>Tools</i></sub>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,swift,kotlin&perline=8" alt="Currently learning" /><br/><sub><i>Presently Under Study</i></sub>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,godot,swift,kotlin&perline=8" alt="Currently learning" /><br/><sub><i>Currently learning</i></sub>
 </p>
 
 <br/>
 
-## Chapter IV &nbsp;·&nbsp; <i>Collected Works</i>
+## III &nbsp;·&nbsp; <i>Selected Works</i>
 
 <table>
   <tr>
@@ -124,33 +100,13 @@ const author = {
 
 <br/>
 
-## Chapter V &nbsp;·&nbsp; <i>The Ledger</i>
+## IV &nbsp;·&nbsp; <i>GitHub</i>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HyatMyat4&show_icons=true&hide_border=true&bg_color=F4EFE6&title_color=6B2D2D&text_color=2A2520&icon_color=A68A4F&custom_title=Annals%20of%20Industry" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyatMyat4&layout=compact&hide_border=true&bg_color=F4EFE6&title_color=6B2D2D&text_color=2A2520&custom_title=Tongues%20Most%20Spoken" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HyatMyat4&hide_border=true&background=F4EFE6&ring=6B2D2D&fire=A68A4F&currStreakLabel=6B2D2D&sideLabels=2A2520&currStreakNum=2A2520&sideNums=2A2520&dates=7A6E60&stroke=D8CFBF" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HyatMyat4&show_icons=true&hide_border=true&bg_color=F4EFE6&title_color=6B2D2D&text_color=2A2520&icon_color=A68A4F&custom_title=Activity" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyatMyat4&layout=compact&hide_border=true&bg_color=F4EFE6&title_color=6B2D2D&text_color=2A2520&custom_title=Languages" alt="Top languages" />
 </p>
 
 <br/>
 
-## Epilogue &nbsp;·&nbsp; <i>Articles of Faith</i>
-
-- **Open source.** To learn in public, and give back in kind.
-- **Developer experience.** Tools that speed a fellow engineer on their way.
-- **Scalable architecture.** Systems built to grow without being torn down.
-- **Craftsmanship.** Code that is clean, legible, and fit for production.
-
-<br/>
-
-<p align="center"><sub>❧</sub></p>
-
-<p align="center">
-  <i>“Quality is never an accident; it is always the result of intelligent effort.”</i><br/>
-  <sub>— attributed to John Ruskin</sub>
-</p>
-
-<p align="center"><sub><i>Fin.</i></sub></p>
+<p align="center"><sub><i>❧ &nbsp; Thank you for reading &nbsp; ❧</i></sub></p>
